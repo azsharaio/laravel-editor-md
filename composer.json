@@ -20,5 +20,15 @@
             "src/helpers.php"
         ]
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Douyasi\\Editor\\EditorServiceProvider"
+            ],
+            "aliases": {
+                "Editor": "Douyasi\\Editor\\EditorServiceProvider"
+            }
+        },
+    },
     "minimum-stability": "dev"
 }
