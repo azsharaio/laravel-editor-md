@@ -1,7 +1,7 @@
 {
     "name": "azshara/laravel-editor-md",
-    "description": "editor.md for laravel",
-    "keywords": ["laravel", "editor.md", "markdown", "azshara"],
+    "description": "laravel editor for markdown",
+    "type": "laravel",
     "license": "MIT",
     "authors": [
         {
@@ -9,6 +9,7 @@
             "email": "azshara.io@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.5.9"
     },
@@ -25,10 +26,9 @@
             "providers": [
                 "Douyasi\\Editor\\EditorServiceProvider"
             ],
-            "aliases": {                
+            "aliases": {
                 "Editor": "Douyasi\\Editor\\EditorServiceProvider"
             }
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
