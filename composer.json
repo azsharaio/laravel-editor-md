@@ -1,12 +1,12 @@
 {
-    "name": "douyasi/laravel-editor-md",
+    "name": "azshara/laravel-editor-md",
     "description": "editor.md for laravel",
-    "keywords": ["laravel", "editor.md", "markdown", "douyasi"],
+    "keywords": ["laravel", "editor.md", "markdown", "azshara"],
     "license": "MIT",
     "authors": [
         {
-            "name": "raoyc",
-            "email": "raoyc2009@gmail.com"
+            "name": "azshara",
+            "email": "azshara.io@gmail.com"
         }
     ],
     "require": {
