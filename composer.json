@@ -27,7 +27,7 @@
             ],
             "aliases": {
                 "Editor": "Douyasi\\Editor\\EditorServiceProvider"
-            }
+            },
         },
     },
     "minimum-stability": "dev"
